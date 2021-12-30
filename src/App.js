@@ -14,7 +14,7 @@ function App() {
     <Provider store={Store}>
     <div className="App">
       <h3> React-Redux Example</h3>
-    <h2 style={{color:'red'}}>Example without Hooks addition Hello world</h2>
+    <h2 style={{color:'red'}}>Example without Hooks addition Byeeee.. </h2>
       <CakeContainer/>
       <IceCreamContainer/>
       {/* <ItemContainer cake/>
